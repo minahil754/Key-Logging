@@ -1,0 +1,8 @@
+2026-10-12 09:55:43 - Key pressed: Control_L
+2026-10-12 09:55:43 - Key pressed: v
+2026-10-12 10:01:39 - Key pressed: Super_L
+2026-10-12 10:01:40 - Key pressed: Super_L
+2026-10-12 10:01:40 - Key pressed: Super_L
+2026-10-12 10:01:40 - Key pressed: Super_L
+2026-10-12 10:01:40 - Key pressed: Super_L
+2026-10-12 10:01:40 - Key pressed: Shift_L
